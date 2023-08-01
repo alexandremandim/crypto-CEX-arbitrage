@@ -1,0 +1,7 @@
+{
+   "coinbase": {
+      "apiKey": "*****",
+      "apiSecret": "*****",
+      "wsApiUrl": "wss://ws-feed-public.sandbox.exchange.coinbase.com"
+   }
+}
